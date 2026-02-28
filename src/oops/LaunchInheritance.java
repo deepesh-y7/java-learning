@@ -21,7 +21,7 @@ public class LaunchInheritance {
     public static void main(String[] args){
         Telusko t1 = new Telusko();
         t1.disp();
-//
+
 //        oops.Alien a1 = new oops.Alien();
 //        a1.disp();
 //        a1.disp2();
